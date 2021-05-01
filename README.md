@@ -1,5 +1,5 @@
 # petro-app
-petroleum database application built with PHP and embedded MySQL
+petroleum database application built with PHP and embedded MySQL <br>
 #--------------------------------------------------------------#
 Section 1: Project Requirements
 Cajun Petroleum Producing Company (CPPC) is a limited liability company involved in the
