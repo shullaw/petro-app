@@ -40,6 +40,7 @@ There are no composite primary keys. Each table has a unique primary key. In
 essence, functional dependency of non-key attributes on subsets of the primary  
 key is absent.  
 There is no functional dependency between non-key attributes.  
+<img src="https://github.com/Tipphead/petro-app/blob/main/model.svg?raw=True">
 
 
 <strong>Security</strong>
