@@ -1,4 +1,4 @@
-# petro-app
+# petro-app <img src="https://github.com/tipphead/petro-app/blob/main/louisiana6.svg?raw=True" width="100" height="100">
 petroleum database application built with PHP and embedded MySQL <br>
 #--------------------------------------------------------------# <br>
 <strong>Section 1: Project Requirements</strong><br/>
@@ -41,7 +41,6 @@ essence, functional dependency of non-key attributes on subsets of the primary
 key is absent.  
 There is no functional dependency between non-key attributes.  
 
-![alt text](https://github.com/tipphead/petro-app/blob/main/louisiana6.svg?raw=true)
 
 <strong>Security</strong>
 1. Credential Login, with the ability for public viewing with no credentials
