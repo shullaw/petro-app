@@ -1,6 +1,6 @@
 # petro-app <img src="https://github.com/tipphead/petro-app/blob/main/louisiana6.svg?raw=True" width="100" height="100">
-petroleum database application built with PHP and embedded MySQL <br>
-#--------------------------------------------------------------# <br>
+<span style="color:blue">*Full Report:*</span>. https://tipphead.github.io/docs/FINAL_PROJECT_REPORT_460.pdf
+ <br>
 <strong>Project Requirements</strong><br/>
 Cajun Petroleum Producing Company (CPPC) is a limited liability company involved in the
 production of hydrocarbons (oil and gas) from onshore wells in Louisiana. The CPPC Well
