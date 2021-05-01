@@ -1,7 +1,7 @@
 # petro-app
 petroleum database application built with PHP and embedded MySQL <br>
-#--------------------------------------------------------------#
-Section 1: Project Requirements
+#--------------------------------------------------------------# <br>
+<strong>Section 1: Project Requirements</strong><br>
 Cajun Petroleum Producing Company (CPPC) is a limited liability company involved in the
 production of hydrocarbons (oil and gas) from onshore wells in Louisiana. The CPPC Well
 Production Logging System is designed to keep track of the daily production of oil and gas
@@ -9,6 +9,7 @@ from all wells owned by CPPC. The aim of the system is to provide a central poin
 and their details and to ensure production reporting process can be done online without the need
 of paperwork anymore. Data will be readily accessible anywhere online without need of faxing
 or postage.
+<br>
 CPPC has 10 oil fields across 8 Parishes in the state of Louisiana. In total, there are 60 wells in
 these fields. A field can have many wells. The name, measured depth, vertical depth, and
 production start date of each well is known. Each well produces oil, gas, and unwanted water.
@@ -20,6 +21,7 @@ pressure, water, oil, gas) which relates to the life of the wells.
 The application is designed using XAMPP and runs with the bundle of Apache as HTTP Server,
 MariaDB as the database management system and PHP as the scripting language used for
 dynamic web pages and web development.
+<br>
 The following database interactions are expected from the database system:
 1. List of wells by field, and Parish where well is located.
 2. Daily oil and gas production by well and field
@@ -30,8 +32,8 @@ data.
 2.1 High level Conceptual data model
 Figure 1. shows the structure of the database—a high-level data model (E-R diagram) which
 consist of the entities, attributes, and associations.
-
-Normalization
+<br>
+<strong>Normalization<strong/>
 All tables in the relational model are in 3NF because.
 ● There are no composite attributes—the data values are atomic.
 ● There are no composite primary keys. Each table has a unique primary key. In
