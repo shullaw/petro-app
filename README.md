@@ -1,7 +1,7 @@
-# petro-app <img src="https://github.com/tipphead/petro-app/blob/main/louisiana6.svg?raw=True" width="100" height="100">
-```python
-Full Report: https://tipphead.github.io/docs/FINAL_PROJECT_REPORT_460.pdf
-```
+# petro-app <img src="https://github.com/shullaw/petro-app/blob/main/louisiana6.svg?raw=True" width="100" height="100">
+
+[Full Report](https://github.com/shullaw/petro-app/blob/main/docs/FINAL_PROJECT_REPORT_460.pdf)
+
  <br>
 <strong>Project Requirements</strong><br/>
 Cajun Petroleum Producing Company (CPPC) is a limited liability company involved in the
